@@ -3,6 +3,7 @@
 - **Student:** İsmayıl İsmayılzadə
 - **Group:** 844i
 - **DBMS Used:** SQLite (DB Browser for SQLite 3.13.1)
+- **Execution Screenshots Report:** [`SalesDB_SQLite_Screenshots_Report.docx`](./SalesDB_SQLite_Screenshots_Report.docx) *(All query execution screenshots for Scenarios 1.1 – 6.10)*
 
 ---
 
